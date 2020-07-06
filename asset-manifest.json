@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.5619e8a0.chunk.css",
+    "main.js": "/resume/static/js/main.4f027f97.chunk.js",
+    "main.js.map": "/resume/static/js/main.4f027f97.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/js/2.cf6cdb38.chunk.js": "/resume/static/js/2.cf6cdb38.chunk.js",
+    "static/js/2.cf6cdb38.chunk.js.map": "/resume/static/js/2.cf6cdb38.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.ee81e3c59a6f0472ef6888081abf4873.js": "/resume/precache-manifest.ee81e3c59a6f0472ef6888081abf4873.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.5619e8a0.chunk.css.map": "/resume/static/css/main.5619e8a0.chunk.css.map",
+    "static/js/2.cf6cdb38.chunk.js.LICENSE.txt": "/resume/static/js/2.cf6cdb38.chunk.js.LICENSE.txt",
+    "static/media/AutoAE.png": "/resume/static/media/AutoAE.a37889f4.png",
+    "static/media/CoV-2-Lifecycle.png": "/resume/static/media/CoV-2-Lifecycle.f0e619fd.png",
+    "static/media/ManageMyGym.png": "/resume/static/media/ManageMyGym.99a2aed5.png",
+    "static/media/PhoenixMusic.png": "/resume/static/media/PhoenixMusic.f3d010bc.png",
+    "static/media/ShineMyCars.png": "/resume/static/media/ShineMyCars.d54a9825.png",
+    "static/media/comprehend.png": "/resume/static/media/comprehend.507595f2.png",
+    "static/media/git.png": "/resume/static/media/git.df16ad22.png",
+    "static/media/goto.png": "/resume/static/media/goto.cd17ad59.png",
+    "static/media/instagram.png": "/resume/static/media/instagram.4d9222ef.png",
+    "static/media/linkedin.png": "/resume/static/media/linkedin.e4dd4db8.png",
+    "static/media/logo.png": "/resume/static/media/logo.f4f29e3f.png",
+    "static/media/profile.png": "/resume/static/media/profile.25a07306.png",
+    "static/media/read.png": "/resume/static/media/read.92a68480.png",
+    "static/media/verified.png": "/resume/static/media/verified.b8635f15.png",
+    "static/media/write.png": "/resume/static/media/write.2ca7de4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d8c91e.js",
+    "static/js/2.cf6cdb38.chunk.js",
+    "static/css/main.5619e8a0.chunk.css",
+    "static/js/main.4f027f97.chunk.js"
+  ]
+}
